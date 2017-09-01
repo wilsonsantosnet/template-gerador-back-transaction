@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using Target.Pendencias.Data.Repository.Transaction;
+using <#namespace#>.Data.Repository.Transaction;
 
 namespace <#namespace#>.Api
 {
